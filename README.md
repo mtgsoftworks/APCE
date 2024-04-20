@@ -3,9 +3,13 @@ APCE is a tool written in Python and designed to execute PowerShell code on the 
 
 Features
 Powershell Payload Processing: Processes a PowerShell payload file specified by the user.
+
 Encryption: Encrypts the processed PowerShell file, making it difficult to detect.
+
 Evasion Techniques: Adds evasion techniques to the generated PowerShell file, thus avoiding Antivirus programs.
+
 Cleanup: Cleans up unnecessary files after the process is complete.
+
 Usage.
 Start the tool using the python apce.py command.
 Following the prompt, enter the name of the PowerShell payload file you want to execute.
