@@ -1,7 +1,7 @@
 # APCE® - Arbitrary Powershell Code Execution
 APCE is a tool written in Python and designed to execute PowerShell code on the target system. This tool processes the PowerShell code, encrypts it and adds some evasion techniques, thus bypassing the firewalls of the target system.
 
------ Features -----
+## ----- Features -----
 
 Powershell Payload Processing: Processes a PowerShell payload file specified by the user.
 
@@ -11,14 +11,14 @@ Evasion Techniques: Adds evasion techniques to the generated PowerShell file, th
 
 Cleanup: Cleans up unnecessary files after the process is complete.
 
------ Usage -----
+## ----- Usage -----
 
 Start the tool using the python main.py command.
 Following the prompt, enter the name of the PowerShell payload file you want to execute.
 Wait until the process starts.
 After the process is complete, observe the results.
 
------ Requirements -----
+## ----- Requirements -----
 
 Python 3.x
 pyfiglet
@@ -26,10 +26,10 @@ chilkat
 Warning
 This tool should only be used for lawful purposes. No responsibility is accepted for any malicious use.
 
------ License -----
+## ----- License -----
 
 This project is licensed under the MIT license. See the LICENSE file for more information.
 
------ Contribution -----
+## ----- Contribution -----
 
 If you would like to contribute, please open an issue or submit a request.
